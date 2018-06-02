@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" id="html">
+
+<head>
+    <title>Javascript MVC</title>
+    <script src="./javascript/node_modules/jquery/dist/jquery.js" type="text/javascript"></script>
+    <style>
+
+    </style>
+
+</head>
+
+
+<body>
+
+    <div class="js-container">
+
+        <input type="text" class="js-task-textbox">
+        <input type="button" class="js-add-task-button" value="Add Task">
+
+        <div class="js-tasks-container"></div>
+        <!-- end tasks -->
+        <input type="button" class="js-complete-task-button" value="Complete Tasks">
+        <input type="button" class="js-reopen-task-button" value="Reopen Tasks">
+        <input type="button" class="js-delete-task-button" value="Delete Tasks">
+
+    </div>
+    <!-- end js-container -->
+
+    <script src="./javascript/EventDispatcher.js"></script>
+    <script src="./javascript/TaskModel.js"></script>
+    <script src="./javascript/TaskView.js"></script>
+    <script src="./javascript/TaskController.js"></script>
+    <script src="./javascript/App.js"></script>
+
+</body>
+
+</html>

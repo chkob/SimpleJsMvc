@@ -1,0 +1,14 @@
+{
+  "name": "SimpleJsMvc",
+  "version": "0.0.1",
+  "description": "A Simple js project",
+  "main": "App.js",
+  "author": "Chatchai Daecha",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
