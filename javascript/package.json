@@ -6,9 +6,9 @@
   "author": "Chatchai Daecha",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "jquery": "^3.4.1"
   },
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^6.0.1"
   }
 }
