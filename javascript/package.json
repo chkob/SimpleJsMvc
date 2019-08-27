@@ -9,6 +9,6 @@
     "jquery": "^3.4.1"
   },
   "devDependencies": {
-    "eslint": "^6.0.1"
+    "eslint": "^6.2.2"
   }
 }
