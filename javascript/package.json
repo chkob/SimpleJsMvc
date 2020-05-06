@@ -6,7 +6,7 @@
   "author": "Chatchai Daecha",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "eslint": "^6.2.2"
